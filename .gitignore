@@ -76,4 +76,4 @@ crashlytics-build.properties
 .idea/
 
 # FishNet Pro only
-Assets/Lobby and Worlds/
+Assets/Lobby and Worlds*

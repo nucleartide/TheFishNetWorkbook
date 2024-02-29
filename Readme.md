@@ -59,8 +59,9 @@ You can see links to the exercises below, which guide you through building a roo
 |------------------------------------|-------------------------------------------------------------------------------|
 | Build your own `NetworkManager`    | [Exercise 1](./Assets/Exercises/01_Understanding_NetworkManager/Questions.md) |
 | Managing server and client sockets | [Exercise 2](./Assets/Exercises/02_Server_Client_Sockets/Questions.md)        |
-| Multiplayer architecture           | [Exercise 3](./Assets/Exercises/03_Architecture/Questions.md)        |
-| *(more to come soon...)*           | |
+| Multiplayer architecture           | [Exercise 3](./Assets/Exercises/03_Architecture/Questions.md)                 |
+| Deployment with Edgegap            | [Exercise 4](./Assets/Exercises/04_Deployment/Questions.md)                   |
+| *(more to come soon...)*           |                                                                               |
 
 <br />
 

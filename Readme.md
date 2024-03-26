@@ -53,15 +53,17 @@ What you need is a *math workbook*. A set of end-of-chapter exercises that:
 
 Thus, this repo provides a set of successive exercises that teach you multiplayer programming in Unity, using FishNet as your networking solution.
 
-You can see links to the exercises below, which guide you through building a room-lobby system (inspired by [FishNet Pro's](https://fish-networking.gitbook.io/docs/master/pro-and-donating) Lobby and Worlds system):
+You can see links to the exercises below, which guide you through building a room-lobby system (inspired by [FishNet Pro's](https://fish-networking.gitbook.io/docs/master/pro-and-donating) Lobby and Worlds system). Currently, there are 35 as of this writing — *35 Exercises to Learn Multiplayer Game Programming*:
 
-| Exercise                           | Link                                                                          |
-|------------------------------------|-------------------------------------------------------------------------------|
-| Build your own `NetworkManager`    | [Exercise 1](./Assets/Exercises/01_Understanding_NetworkManager/Questions.md) |
-| Managing server and client sockets | [Exercise 2](./Assets/Exercises/02_Server_Client_Sockets/Questions.md)        |
-| Multiplayer architecture           | [Exercise 3](./Assets/Exercises/03_Architecture/Questions.md)                 |
-| Deployment with Edgegap            | [Exercise 4](./Assets/Exercises/04_Deployment/Questions.md)                   |
-| *(more to come soon...)*           |                                                                               |
+| Exercise                                        | Link                                                                          |
+|-------------------------------------------------|-------------------------------------------------------------------------------|
+| Build your own `NetworkManager` (5 exercises)   | [Exercise 1](./Assets/Exercises/01_Understanding_NetworkManager/Questions.md) |
+| Managing server and client sockets (6 exercises) | [Exercise 2](./Assets/Exercises/02_Server_Client_Sockets/Questions.md)        |
+| Multiplayer architecture (11 exercises)         | [Exercise 3](./Assets/Exercises/03_Architecture/Questions.md)                 |
+| Deployment with Edgegap (3 exercises)           | [Exercise 4](./Assets/Exercises/04_Deployment/Questions.md)                   |
+| Implementing a simple login system (6 exercises) | [Exercise 5](./Assets/Exercises/05_Auth/Questions.md)                         |
+| Code quality (4 exercises)                      | [Exercise 6](./Assets/Exercises/06_Code_Quality/Questions.md)                 |
+| *(more to come soon...)*                        |                                                                               |
 
 <br />
 
